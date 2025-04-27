@@ -1,0 +1,19 @@
+2025-04-19 21:37:11,733 - INFO - Starting HookNet segmentation
+2025-04-19 21:37:11,761 - INFO - Processing G190509_6.svs
+2025-04-19 22:04:19,968 - INFO - Extracted 792 patches from G190509_6.svs
+2025-04-19 22:04:19,969 - INFO - Processing G200426_1.svs
+2025-04-19 22:13:10,326 - INFO - Extracted 0 patches from G200426_1.svs
+2025-04-19 22:13:10,326 - INFO - Processing G200426_13.svs
+2025-04-19 22:34:48,651 - INFO - Extracted 3922 patches from G200426_13.svs
+2025-04-19 22:34:49,186 - INFO - Processing G200426_19.svs
+2025-04-19 22:53:40,786 - INFO - Extracted 631 patches from G200426_19.svs
+2025-04-19 22:53:41,212 - INFO - Processing G210413_21.svs
+2025-04-19 23:08:02,111 - INFO - Extracted 128 patches from G210413_21.svs
+2025-04-19 23:08:02,463 - INFO - Processing G210413_24.svs
+2025-04-19 23:23:36,196 - INFO - Extracted 879 patches from G210413_24.svs
+2025-04-19 23:23:36,629 - INFO - Processing G210587_6.svs
+2025-04-21 16:40:29,511 - INFO - Starting HookNet segmentation
+2025-04-21 16:40:29,634 - INFO - Processing G24121_9.svs
+2025-04-21 16:54:19,877 - INFO - Extracted 1671 patches from G24121_9.svs
+2025-04-21 16:54:20,667 - INFO - Training dataset: 1336 patches, Validation dataset: 335 patches
+2025-04-21 16:54:23,571 - INFO - Starting training

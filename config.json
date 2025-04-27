@@ -1,0 +1,15 @@
+{
+    "slides_dir": "./datasets/svs",
+    "annotations_dir": "./datasets/mask",
+    "output_dir": "output_patche_4class",
+    "M": 256,
+    "r_C": 1,
+    "r_T": 4,
+    "num_classes": 4,
+    "batch_size": 16,
+    "num_epochs": 50,
+    "learning_rate": 0.0001,
+    "lambda_weight": 0.75,
+    "depth": 4,
+    "device": "cpu"
+}
