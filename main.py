@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore", message="Failed to load image Python extension
 os.environ["NO_ALBUMENTATIONS_UPDATE"] = "1"
 
 def main():
-    logging.basicConfig(filename='hooknet2.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.basicConfig(filename='hooknet.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     logging.info("Starting HookNet segmentation")
 
     with open("config.json", "r") as f:
